@@ -1,1 +1,0 @@
-# workshops on complete TERRAFORM.
